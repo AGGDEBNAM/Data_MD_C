@@ -9,7 +9,7 @@
  ## **Que Son:**
 >**Los operadores aritmeticos son los que se usan para calcular el valor final de dos o mas cantidades medibles.**
 > ## **EJEMPLO:**
->>  #### **Los operadores aritmeticos como lo son:**
+>>  #### **Los operadores aritmeticos como lo son:** 
 >> 1.  Suma   '+'
 >> 1.  Resta  '-'
 >> 1.  Multiplicacion '*'
