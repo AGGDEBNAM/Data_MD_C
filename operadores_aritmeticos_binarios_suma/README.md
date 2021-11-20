@@ -6,10 +6,10 @@
 3. ##### [<span style = "color: #1e886c99 "> **SINTAXIS IXPLICITA** </span>](#implicita)
 4. ##### [<span style = "color: #1e997c99 ">**SINTAXIS EXPLICITA** </span>](#explicita)
 ---
- ## **Que Son:**
+ ## **Que Son:** 
 >**Los operadores aritmeticos son los que se usan para calcular el valor final de dos o mas cantidades medibles.**
 > ## **EJEMPLO:**
->>  #### **Los operadores aritmeticos como lo son:** 
+>>  #### **Los operadores aritmeticos como lo son:**
 >> 1.  Suma   '+'
 >> 1.  Resta  '-'
 >> 1.  Multiplicacion '*'
