@@ -8,7 +8,7 @@
 ---
  ## **Que Son:** 
 >**Los operadores aritmeticos son los que se usan para calcular el valor final de dos o mas cantidades medibles.** > ## **EJEMPLO:**
->>  #### **Los operadores aritmeticos como lo son:**
+>>  #### **Los operadores aritmeticos como lo son:**f
 >> 1.  Suma   '+'
 >> 1.  Resta  '-'
 >> 1.  Multiplicacion '*'
@@ -78,4 +78,4 @@ namespace operadores_aritmeticos_binarios_suma
 
 ---
 
-- <span style = "color: #c945a1 "> _**by AGGDEBNAM**_ </span>
+- <span style = "color: #c945a1 "> _**BY AGGDEBNAM**_ </span>
